@@ -1,0 +1,7 @@
+C:\Users\Ivan\Desktop\kpkexam\ConsoleApplication1\bin\Debug\Calendar-System.exe.config
+C:\Users\Ivan\Desktop\kpkexam\ConsoleApplication1\bin\Debug\Calendar-System.exe
+C:\Users\Ivan\Desktop\kpkexam\ConsoleApplication1\bin\Debug\Calendar-System.pdb
+C:\Users\Ivan\Desktop\kpkexam\ConsoleApplication1\bin\Debug\PowerCollections.dll
+C:\Users\Ivan\Desktop\kpkexam\ConsoleApplication1\obj\Debug\Calendar-System.exe
+C:\Users\Ivan\Desktop\kpkexam\ConsoleApplication1\obj\Debug\Calendar-System.pdb
+C:\Users\Ivan\Desktop\kpkexam\ConsoleApplication1\obj\Debug\Calendar-System.csprojResolveAssemblyReference.cache

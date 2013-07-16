@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Size", "01_Size\01_Size.csproj", "{8E0D3D9C-B621-4A39-8C3B-337F679267AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Statistics", "02_Statistics\02_Statistics.csproj", "{A029A3CC-D1AE-4B3C-849B-7A6C60AE6369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E0D3D9C-B621-4A39-8C3B-337F679267AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0D3D9C-B621-4A39-8C3B-337F679267AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0D3D9C-B621-4A39-8C3B-337F679267AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0D3D9C-B621-4A39-8C3B-337F679267AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A029A3CC-D1AE-4B3C-849B-7A6C60AE6369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A029A3CC-D1AE-4B3C-849B-7A6C60AE6369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A029A3CC-D1AE-4B3C-849B-7A6C60AE6369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A029A3CC-D1AE-4B3C-849B-7A6C60AE6369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

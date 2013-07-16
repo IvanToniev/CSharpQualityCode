@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>01_School</name>
+    </assembly>
+    <members>
+        <member name="T:_01_School.School">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:_01_School.School.#ctor(System.Collections.Generic.List{_01_School.Course})">
+            <summary>
+            
+            </summary>
+            <param name="courses"></param>
+        </member>
+        <member name="M:_01_School.School.AddCourse(_01_School.Course)">
+            <summary>
+            
+            </summary>
+            <param name="course"></param>
+        </member>
+        <member name="P:_01_School.School.Courses">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

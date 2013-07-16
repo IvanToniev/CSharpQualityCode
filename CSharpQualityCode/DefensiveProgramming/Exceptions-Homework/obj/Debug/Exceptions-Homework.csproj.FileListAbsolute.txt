@@ -1,0 +1,5 @@
+C:\Users\Ivan\Desktop\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+C:\Users\Ivan\Desktop\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+C:\Users\Ivan\Desktop\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+C:\Users\Ivan\Desktop\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb

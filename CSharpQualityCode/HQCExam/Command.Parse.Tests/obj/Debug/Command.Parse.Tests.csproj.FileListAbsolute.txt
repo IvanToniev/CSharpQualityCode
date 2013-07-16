@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\kpkexam\Command.Parse.Tests\bin\Debug\Command.Parse.Tests.dll
+C:\Users\Ivan\Desktop\kpkexam\Command.Parse.Tests\bin\Debug\Command.Parse.Tests.pdb
+C:\Users\Ivan\Desktop\kpkexam\Command.Parse.Tests\bin\Debug\Calendar-System.exe
+C:\Users\Ivan\Desktop\kpkexam\Command.Parse.Tests\bin\Debug\PowerCollections.dll
+C:\Users\Ivan\Desktop\kpkexam\Command.Parse.Tests\bin\Debug\Calendar-System.pdb
+C:\Users\Ivan\Desktop\kpkexam\Command.Parse.Tests\obj\Debug\Command.Parse.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\kpkexam\Command.Parse.Tests\obj\Debug\Command.Parse.Tests.dll
+C:\Users\Ivan\Desktop\kpkexam\Command.Parse.Tests\obj\Debug\Command.Parse.Tests.pdb
+C:\Users\Ivan\Desktop\kpkexam\Command.Parse.Tests\bin\Debug\PowerCollections.xml

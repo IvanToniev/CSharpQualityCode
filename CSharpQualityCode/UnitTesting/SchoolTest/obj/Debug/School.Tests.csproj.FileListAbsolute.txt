@@ -1,0 +1,8 @@
+C:\Projects\UnitTesting\SchoolTest\obj\Debug\School.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\UnitTesting\SchoolTest\bin\Debug\SchoolTest.dll
+C:\Projects\UnitTesting\SchoolTest\bin\Debug\SchoolTest.pdb
+C:\Projects\UnitTesting\SchoolTest\bin\Debug\01_School.exe
+C:\Projects\UnitTesting\SchoolTest\bin\Debug\01_School.pdb
+C:\Projects\UnitTesting\SchoolTest\bin\Debug\01_School.xml
+C:\Projects\UnitTesting\SchoolTest\obj\Debug\SchoolTest.dll
+C:\Projects\UnitTesting\SchoolTest\obj\Debug\SchoolTest.pdb

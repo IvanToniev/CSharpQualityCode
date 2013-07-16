@@ -1,0 +1,7 @@
+C:\Projects\UnitTesting\01_School\bin\Debug\01_School.exe.config
+C:\Projects\UnitTesting\01_School\obj\Debug\01_School.csprojResolveAssemblyReference.cache
+C:\Projects\UnitTesting\01_School\bin\Debug\01_School.XML
+C:\Projects\UnitTesting\01_School\bin\Debug\01_School.exe
+C:\Projects\UnitTesting\01_School\bin\Debug\01_School.pdb
+C:\Projects\UnitTesting\01_School\obj\Debug\01_School.exe
+C:\Projects\UnitTesting\01_School\obj\Debug\01_School.pdb
